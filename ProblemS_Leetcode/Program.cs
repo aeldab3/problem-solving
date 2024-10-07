@@ -12,7 +12,8 @@ namespace ProblemS_Leetcode
         static void Main(string[] args)
 
         {
-            Two_Sum.Run();
+            //Two_Sum.Run();
+            Palindrome_Number.Run();
         }
     }
 }
