@@ -15,4 +15,5 @@ using System;
 //Find_the_Index_of_the_First_Occurrence_in_a_String.Run();
 //Search_Insert_Position.Run();
 //Length_of_Last_Word.Run();
-Plus_One.Run();
+//Plus_One.Run();
+Add_Binary.Run();
