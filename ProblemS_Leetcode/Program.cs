@@ -17,4 +17,5 @@ using System;
 //Length_of_Last_Word.Run();
 //Plus_One.Run();
 //Add_Binary.Run();
-Climbing_Stairs.Run();
+//Climbing_Stairs.Run();
+Min_Cost_Climbing_Stairs.Run();

@@ -8,6 +8,12 @@ namespace ProblemS_Leetcode
 {
     internal class Climbing_Stairs
     {
+        /*
+            70. Climbing Stairs
+            You are climbing a staircase. It takes n steps to reach the top.
+            Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
+        */
+
         public static void Run()
         {
             int n = 5;
@@ -31,7 +37,6 @@ namespace ProblemS_Leetcode
                     first = second;
                     second = third;
                 }
-
                 return second;
             }
         }
