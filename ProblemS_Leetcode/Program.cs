@@ -16,4 +16,5 @@ using System;
 //Search_Insert_Position.Run();
 //Length_of_Last_Word.Run();
 //Plus_One.Run();
-Add_Binary.Run();
+//Add_Binary.Run();
+Climbing_Stairs.Run();
