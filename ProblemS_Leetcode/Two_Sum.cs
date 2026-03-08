@@ -8,7 +8,7 @@ namespace ProblemS_Leetcode
 {
     internal class Two_Sum
     {
-        //Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+        //1- Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
         public static void Run()
         {
         Two_Sum twoSum = new Two_Sum();

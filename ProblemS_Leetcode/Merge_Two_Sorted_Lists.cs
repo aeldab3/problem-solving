@@ -9,7 +9,7 @@ namespace ProblemS_Leetcode
     internal class Merge_Two_Sorted_Lists
     {
 
-        //Merge the two lists into one sorted list. The list should be made by splicing together the nodes of the first two lists.
+        //21- Merge the two lists into one sorted list. The list should be made by splicing together the nodes of the first two lists.
 
         public static void Run()
         {
@@ -25,11 +25,11 @@ namespace ProblemS_Leetcode
         {
             while (head != null)
             {
-                Console.WriteLine(head.val);
+                Console.Write(head.val);
 
                 if (head.next != null)
                 {
-                    Console.WriteLine(" -> ");
+                    Console.Write(" -> ");
                 }
 
                 head = head.next;

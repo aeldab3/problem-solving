@@ -9,6 +9,10 @@ namespace ProblemS_Leetcode
 {
     internal class Integer_to_Roman
     {
+        /// <summary>
+        /// 12- Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
+        /// Roman numerals are formed by appending the conversions of decimal place values from highest to lowest.
+        /// </summary>
         public static void Run()
         {
 

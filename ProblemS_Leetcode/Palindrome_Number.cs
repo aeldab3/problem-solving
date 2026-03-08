@@ -8,7 +8,7 @@ namespace ProblemS_Leetcode
 {
     internal class Palindrome_Number
     {
-        //Given an integer x, return true if x is a palindrome, and false otherwise.
+        //9- Given an integer x, return true if x is a palindrome, and false otherwise.
 
         public static void Run()
         {

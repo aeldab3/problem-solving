@@ -8,7 +8,7 @@ namespace ProblemS_Leetcode
 {
     internal class Add_Binary
     {
-        //Given two binary strings a and b, return their sum as a binary string.
+        //67- Given two binary strings a and b, return their sum as a binary string.
         public static void Run()
         {
             string a = "1010";
